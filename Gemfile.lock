@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/better-together-org/community-engine-rails.git
-  revision: 61ea64684aa8a60b9c2edbac373ebb538cd4620c
+  revision: be5fe1c76a59f5aead0b5a0c02afd1406f9933c7
   branch: wip/new-to-nl-2
   specs:
     better_together (0.6.0)
@@ -602,8 +602,8 @@ GEM
       ffi (~> 1.12)
       logger
     rubyzip (2.3.2)
-    sass-embedded (1.79.5-x86_64-linux-gnu)
-      google-protobuf (~> 4.27)
+    sass-embedded (1.80.2-x86_64-linux-gnu)
+      google-protobuf (~> 4.28)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc-embedded (1.79.0)
@@ -667,7 +667,7 @@ GEM
     trailblazer-option (0.1.2)
     translate_enum (0.2.0)
       activesupport
-    turbo-rails (2.0.10)
+    turbo-rails (2.0.11)
       actionpack (>= 6.0.0)
       railties (>= 6.0.0)
     tzinfo (2.0.6)
